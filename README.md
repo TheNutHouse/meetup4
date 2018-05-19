@@ -1,6 +1,6 @@
 # Meetup 4
 
-### Cubersecurity & Networking
+### Cybersecurity & Networking
 
 ## Date:
 December 20, 2017 (6:30 PM - 8:30 PM)
